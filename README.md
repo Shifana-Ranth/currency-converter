@@ -45,6 +45,10 @@ currency-converter/
 
 ---
 
+## Image
+<img width="676" height="702" alt="image" src="https://github.com/user-attachments/assets/ff9c5b65-86e9-4cd9-acd0-4d4e01388a88" />
+
+
 ## ▶️ Usage
 1. Clone this repository:
    ```bash
